@@ -1,4 +1,4 @@
-# eCommerce-Business-Performance-Analysis-with-SQL
+# eCommerce Business Performance Analysis with SQL
 
 Dataset: [link source](https://drive.google.com/file/d/1D1g4J9HZwssRUdBesgRS-58zbwakCTGP/view?usp=sharing)
 
